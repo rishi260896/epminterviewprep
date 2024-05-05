@@ -3,4 +3,4 @@
 
 **Link** : [empinterviewprep](https://epminterviewprep.netlify.app/) 
 
-Tech stack used : React ts, google firebase and Material UI
+Tech stack used : **React ts, google firebase and Material UI**
